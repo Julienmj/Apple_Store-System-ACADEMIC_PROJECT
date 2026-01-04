@@ -1,0 +1,39 @@
+==============================================================
+            MY APPLE-STORE SYSTEM                             
+              STOCK REPORT                                    
+==============================================================
+
+Generated on: Sun Dec 07 17:28:19 2025
+Total Records: 18
+
++------------+--------------------------------------+------------+------------+------------+
+| Product ID | Product Name                         | Price      | Date       | Category   |
++------------+--------------------------------------+------------+------------+------------+
+| 3003       | Apple Watch SE                       | $249.00    | 25/01/2024 | iWatch     |
+| 3003       | Apple Watch SE                       | $249.00    | 25/01/2024 | iWatch     |
+| 3001       | Apple Watch Series 9                 | $399.00    | 25/01/2024 | iWatch     |
+| 3001       | Apple Watch Series 9                 | $399.00    | 25/01/2024 | iWatch     |
+| 1003       | iPhone 15                            | $799.00    | 15/01/2024 | iPhones    |
+| 3002       | Apple Watch Ultra 2                  | $799.00    | 25/01/2024 | iWatch     |
+| 1003       | iPhone 15                            | $799.00    | 15/01/2024 | iPhones    |
+| 3002       | Apple Watch Ultra 2                  | $799.00    | 25/01/2024 | iWatch     |
+| 1002       | iPhone 15 Pro                        | $999.00    | 15/01/2024 | iPhones    |
+| 1002       | iPhone 15 Pro                        | $999.00    | 15/01/2024 | iPhones    |
+| 1001       | iPhone 15 Pro Max                    | $1199.00   | 15/01/2024 | iPhones    |
+| 1001       | iPhone 15 Pro Max                    | $1199.00   | 15/01/2024 | iPhones    |
+| 2003       | MacBook Air 15-inch M2               | $1299.00   | 20/01/2024 | MacBooks   |
+| 2003       | MacBook Air 15-inch M2               | $1299.00   | 20/01/2024 | MacBooks   |
+| 2002       | MacBook Pro 14-inch M3               | $1999.00   | 20/01/2024 | MacBooks   |
+| 2002       | MacBook Pro 14-inch M3               | $1999.00   | 20/01/2024 | MacBooks   |
+| 2001       | MacBook Pro 16-inch M3               | $2499.00   | 20/01/2024 | MacBooks   |
+| 2001       | MacBook Pro 16-inch M3               | $2499.00   | 20/01/2024 | MacBooks   |
++------------+--------------------------------------+------------+------------+------------+
+
+--------------------------------------------------------------
+                    SUMMARY BY CATEGORY                       
+--------------------------------------------------------------
+iPhones  : 6 items, Total Value: $5994.00
+MacBooks : 6 items, Total Value: $11594.00
+iWatch    : 6 items, Total Value: $2894.00
+--------------------------------------------------------------
+TOTAL    : 18 items, Total Value: $20482.00

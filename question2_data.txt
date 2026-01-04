@@ -1,0 +1,11 @@
+4002|Galaxy Buds FE|99.99|30/01/2024|Galaxy Buds
+4001|Galaxy Buds2 Pro|229.99|30/01/2024|Galaxy Buds
+5002|Galaxy Watch6|299.99|05/02/2024|Galaxy Watch
+5001|Galaxy Watch6 Classic|429.99|05/02/2024|Galaxy Watch
+1002|Galaxy S24|799.99|15/01/2024|Galaxy
+3002|Galaxy Tab S9|799.99|25/01/2024|Galaxy Tab
+2002|Galaxy Book4|1099.99|20/01/2024|Galaxy Book
+1001|Galaxy S24 Ultra|1199.99|15/01/2024|Galaxy
+3001|Galaxy Tab S9 Ultra|1199.99|25/01/2024|Galaxy Tab
+1003|Galaxy S24 Ultra|1222.00|02/02/2023|Galaxy
+2001|Galaxy Book4 Pro|1499.99|20/01/2024|Galaxy Book

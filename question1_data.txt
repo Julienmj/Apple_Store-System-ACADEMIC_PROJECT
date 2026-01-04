@@ -1,0 +1,6 @@
+1002|iPhone 15 Pro Max|890.00|20/12/2025|iPhones
+3001|Apple Watch SE|56.00|11/11/2025|iWatch
+1022|iPhone 15|700.00|29/03/2025|iPhones
+1023|iPhone 15|530.00|29/03/2025|iPhones
+3004|Watch Series 8|200.00|20/03/2025|iWatch
+3002|Watch Series 8|200.00|20/03/2025|iWatch
