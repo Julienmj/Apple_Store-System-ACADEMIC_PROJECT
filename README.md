@@ -1,6 +1,6 @@
 # MY APPLE-STORE SYSTEM
 
-A comprehensive C-based inventory management system for Apple products, split into two separate programs implementing different data structure operations and sorting algorithms.
+A comprehensive C-based inventory management system for Apple products, split into two separate programs implementing different data structure operations and sorting algorithms....
 
 ## 📁 Project Structure
 
