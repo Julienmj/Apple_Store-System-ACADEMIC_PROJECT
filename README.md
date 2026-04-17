@@ -69,6 +69,7 @@ typedef struct {
 - iPhone 15 Pro Max
 - iPhone 15 Pro
 - iPhone 15
+- iPhone 14 Pro
 
 
 #### 2. MacBooks
