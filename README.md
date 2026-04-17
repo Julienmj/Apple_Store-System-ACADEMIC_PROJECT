@@ -66,7 +66,7 @@ typedef struct {
 ### Product Categories
 
 #### 1. iPhones
-- iPhone 15 Pro Max
+
 
 
 
