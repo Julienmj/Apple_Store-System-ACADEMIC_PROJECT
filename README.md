@@ -67,7 +67,8 @@ typedef struct {
 
 #### 1. iPhones
 - iPhone 15 Pro Max
-- - iPhone 15 Pro
+- iPhone 15 Pro
+- iPhone 15
 
 
 #### 2. MacBooks
