@@ -66,9 +66,11 @@ typedef struct {
 ### Product Categories
 
 #### 1. iPhones
-
-
-
+- iPhone 15 Pro Max
+- iPhone 15 Pro
+- iPhone 15
+- iPhone 14 Pro
+- iPhone 14
 
 #### 2. MacBooks
 - MacBook Pro 16-inch M3
