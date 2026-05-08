@@ -14,7 +14,7 @@ A comprehensive C-based inventory management system for Apple products, split in
 └── README.md            # This file
 ```
 
----  juli
+---  jul
 
 ## 📋 QUESTION 1: Record/Data Management System
 
